@@ -1,2 +1,2 @@
 # UDACITYCARNIVAL
-Sarah Rice's Udacity Product 1 Submission: Carnival
+Sarah Rice's Udacity Project 1 Submission: Carnival
